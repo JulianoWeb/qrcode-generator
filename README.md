@@ -25,3 +25,6 @@ Digite o texto ou link e escolha o nome do arquivo.
 O QR Code será salvo como uma imagem `.png`.
 
 
+
+
+
