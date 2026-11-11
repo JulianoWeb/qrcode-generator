@@ -35,3 +35,5 @@ O QR Code será salvo como uma imagem `.png`.
 
 
 
+
+
